@@ -102,6 +102,10 @@ p {
   margin: auto;
 }
 
+.bottom-space {
+  margin-bottom: 70px;
+}
+
 #contact {
   margin-top: 20px;
   margin-bottom: 100px;
